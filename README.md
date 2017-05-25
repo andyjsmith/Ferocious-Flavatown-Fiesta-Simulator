@@ -1,5 +1,5 @@
 # Guy Fieri's Ferocious Flavatown Fiesta Simulator
-## Statistics Project
+### Statistics Project
 This is a simulator for Guy Fieri's Ferocious Flavatown Fiesta, a probability game made for our Applied Statistics class.
 # Usage
 Run it with `node app.js` with optional parameters appended onto the end.
